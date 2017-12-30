@@ -1,21 +1,27 @@
-# hangman-rust
-A simple and likely improvable Hangman Game created using the Rust Programming Language.
+# Rusty Word Puzzle
 
-I have uploaded a tutorial series for this application on YouTube, you can find it here:
+Dive into a thrilling word-guessing experience crafted with the Rust programming language! 
 
-Part 1 - Reading the Data File
-https://www.youtube.com/watch?v=omLBlUWfxO0
+This project is a fun and engaging way to explore core Rust concepts. 
 
-Part 2 - Creating the Letters
-https://www.youtube.com/watch?v=qydW0LVC4Mg
+**Key Features:**
 
-Part 3 - Reading User Input & Logic
-https://www.youtube.com/watch?v=xbLI4cJcENk
+*   Randomly selected words from a database.
+*   Intuitive user interface for guessing letters.
+*   Keeps track of wrong guesses and remaining attempts.
+*   Provides feedback on each guess.
 
-Part 4 - Finishing Up
-https://www.youtube.com/watch?v=XYyBf9rA408
+**How to Play:**
 
-Entire Playlist
-https://www.youtube.com/watch?v=omLBlUWfxO0&list=PLVvjrrRCBy2Igh_kCtvRr2Np4fMRawn6x
+1.  Clone the repository.
+2.  Compile the project using `cargo build`.
+3.  Run the executable with `cargo run`.
+4.  Follow the prompts to guess the secret word.
 
-Remember to subscribe while you're over there
+**Future Improvements:**
+
+*   Adding difficulty levels.
+*   Implementing a scoring system.
+*   Developing a graphical user interface (GUI).
+
+Feel free to fork the project and contribute to its evolution! Let's make this word puzzle even more exciting. 
